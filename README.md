@@ -54,13 +54,6 @@ Below are the default login credentials to access the application:
 
 ---
 
-## **Live Demo**
-
-Check out the live version of the application here:  
-https://staffprovie.netlify.app/
-
----
-
 ## **Setup Instructions**
 
 To set up this project locally:
@@ -68,7 +61,27 @@ To set up this project locally:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/ivie16/StaffPro.git
+   
+2. **Navigate to the project directory:**
+    ```bash
+    cd StaffPro
+    
+3. **Install dependencies:**
+     ```bash
+     npm install
+     
+4. **Start the development server:**
+    ```bash
+    npm run dev
 
 
+    ---
+
+## **Live Demo**
+
+Check out the live version of the application here:  
+https://staffprovie.netlify.app/
+
+     
 
 
